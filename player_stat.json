@@ -8,7 +8,7 @@
       "batting_style": "Left-Hand-Bat",
       "price": "$1500000",
       "button_text": "Choose Player",
-      "image_url": "path_to_viral_kohli_image"
+      "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_800,q_50/lsci/db/PICTURES/CMS/361100/361170.jpg"
     },
     {
       "id": 2,
@@ -19,7 +19,7 @@
       "batting_style": "Left-Hand-Bat",
       "price": "$1500000",
       "button_text": "Choose Player",
-      "image_url": "path_to_default_placeholder_image"
+      "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_800,q_50/lsci/db/PICTURES/CMS/361100/361170.jpg"
     },
     {
       "id": 3,
@@ -30,7 +30,7 @@
       "batting_style": "Right-Hand-Bat",
       "price": "$1200000",
       "button_text": "Choose Player",
-      "image_url": "path_to_chris_williams_image"
+      "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_800,q_50/lsci/db/PICTURES/CMS/361100/361170.jpg"
     },
     {
       "id": 4,
@@ -41,7 +41,7 @@
       "batting_style": "Right-Hand-Bat",
       "price": "$1100000",
       "button_text": "Choose Player",
-      "image_url": "path_to_marcus_stoinis_image"
+      "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_800,q_50/lsci/db/PICTURES/CMS/361100/361170.jpg"
     },
     {
       "id": 5,
@@ -52,7 +52,7 @@
       "batting_style": "Left-Hand-Bat",
       "price": "$1700000",
       "button_text": "Choose Player",
-      "image_url": "path_to_ben_stokes_image"
+      "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_800,q_50/lsci/db/PICTURES/CMS/361100/361170.jpg"
     },
     {
       "id": 6,
@@ -63,7 +63,7 @@
       "batting_style": "Right-Hand-Bat",
       "price": "$1300000",
       "button_text": "Choose Player",
-      "image_url": "path_to_jofra_archer_image"
+      "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_800,q_50/lsci/db/PICTURES/CMS/361100/361170.jpg"
     },
     {
       "id": 7,
@@ -74,7 +74,7 @@
       "batting_style": "Right-Hand-Bat",
       "price": "$1400000",
       "button_text": "Choose Player",
-      "image_url": "path_to_kagiso_rabada_image"
+      "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_800,q_50/lsci/db/PICTURES/CMS/361100/361170.jpg"
     },
     {
       "id": 8,
@@ -85,7 +85,7 @@
       "batting_style": "Left-Hand-Bat",
       "price": "$1600000",
       "button_text": "Choose Player",
-      "image_url": "path_to_shakib_al_hasan_image"
+      "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_800,q_50/lsci/db/PICTURES/CMS/361100/361170.jpg"
     },
     {
       "id": 9,
@@ -96,7 +96,7 @@
       "batting_style": "Right-Hand-Bat",
       "price": "$1400000",
       "button_text": "Choose Player",
-      "image_url": "path_to_rashid_khan_image"
+      "image_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_800,q_50/lsci/db/PICTURES/CMS/361100/361170.jpg"
     }
   ]
   
